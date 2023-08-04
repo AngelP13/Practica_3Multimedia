@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Practica_3Multimedia</string>
+
+    <string-array name="profiles_array">
+        <item>Infantil</item>
+        <item>Adolescente</item>
+        <item>Adulto</item>
+    </string-array>
+    <string name="profile_prompt">Seleccione un perfil</string>
+
+    <string-array name="movies_infantil">
+        <item>reyleon</item>
+        <item>spiderman</item>
+    </string-array>
+
+    <string-array name="movies_adolescente">
+        <item>conjuro</item>
+        <item>batman</item>
+    </string-array>
+
+    <string-array name="movies_adulto">
+        <item>gear5</item>
+        <item>onepiece</item>
+    </string-array>
+
+
+</resources>
